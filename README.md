@@ -10,4 +10,4 @@ After ownloading above files open:
 Setup.exe
 
 then open:
-Omain.exe
+Connector.exe
